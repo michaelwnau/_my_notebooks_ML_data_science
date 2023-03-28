@@ -1,0 +1,16 @@
+DEBUG:root:Starting the game
+DEBUG:root:Random number generated: 52
+DEBUG:root:Guessed number 50 is too low
+DEBUG:root:Guessed number 75 is too high
+DEBUG:root:Guessed number 65 is too high
+DEBUG:root:Guessed number 55 is too high
+DEBUG:root:Guessed number 52 is correct
+DEBUG:root:Starting the game
+DEBUG:root:Random number generated: 92
+DEBUG:root:Guessed number 50 is too low
+DEBUG:root:Guessed number 75 is too low
+DEBUG:root:Guessed number 85 is too low
+DEBUG:root:Guessed number 95 is too high
+DEBUG:root:Guessed number 90 is too low
+DEBUG:root:Guessed number 93 is too high
+DEBUG:root:Guessed number 92 is correct
