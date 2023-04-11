@@ -1,0 +1,7 @@
+Spotify Data Project
+Michael Nau
+4/4/2023
+/////////////////////
+url: https://www.kaggle.com/datasets/mrmorj/dataset-of-songs-in-spotify?select=genres_v2.csv
+
+Leaning towards an implementation of a semi-unsupervised model.
